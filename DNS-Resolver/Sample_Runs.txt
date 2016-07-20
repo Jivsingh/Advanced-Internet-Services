@@ -1,0 +1,23 @@
+;; QUESTION SECTION:
+_sip._udp.columbia.edu	IN	SRV
+;; ANSWER SECTION:
+DNS Records received =
+_sip._udp.columbia.edu.	2449	IN	SRV	10 10 5060 lily.cc.columbia.edu.
+_sip._udp.columbia.edu.	2449	IN	SRV	20 10 5060 laurel.cc.columbia.edu.
+
+;; QUESTION SECTION:
+www.google.com	IN	A
+;; ANSWER SECTION:
+DNS Records received =
+www.google.com.		96	IN	A	173.194.219.105
+www.google.com.		96	IN	A	173.194.219.99
+www.google.com.		96	IN	A	173.194.219.104
+www.google.com.		96	IN	A	173.194.219.147
+www.google.com.		96	IN	A	173.194.219.106
+www.google.com.		96	IN	A	173.194.219.103
+
+;; QUESTION SECTION:
+www.cs.columbia.edu	IN	CNAME
+;; ANSWER SECTION:
+DNS Records received =
+www.cs.columbia.edu.	1934	IN	CNAME	webcluster.cs.columbia.edu.
